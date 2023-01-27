@@ -26,6 +26,10 @@
 
     echo "<hr>";
 
+    echo "<hr>";
+    echo "<hr>";
+    echo "<hr>";
+
     // inbuilt functions
     echo "<pre>";
     print_r($a);   //display array $a as associative array with key (index) and value pair
